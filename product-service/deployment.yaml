@@ -21,7 +21,7 @@ spec:
       containers:
       - name: product-service
 
-        image: dhusinth/product-service:v1
+        image: dhusinth123/product-service:6
 
         ports:
         - containerPort: 5000

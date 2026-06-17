@@ -21,7 +21,7 @@ spec:
       containers:
       - name: order-service
 
-        image: dhusinth/order-service:v1
+        image: dhusinth123/order-service:6
 
         ports:
         - containerPort: 5000
