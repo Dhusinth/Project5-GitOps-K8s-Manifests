@@ -9,3 +9,4 @@ resources:
   - product-service/service.yaml
   - order-service/deployment.yaml
   - order-service/service.yaml
+  - ingress/ingress.yaml
